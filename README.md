@@ -1,7 +1,15 @@
-<details>
-  <summary>display useless stats</summary>
-  <br>
-  <p align='center'>
-    <img src="https://pixel-profile.vercel.app/api/github-stats?username=PurpleShad0w&screen_effect=true&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+85%25+51%25%2C+%23f5609cff+0%25%2C+%231c1cf6ff+60%25%29&color=%23ffffffFF&hide=rank">
-  </p>
-</details>
+## GitHub Repositories Index
+
+
+| Repository                                                                               | Main Language(s)     | Type         | Scope                             | Status           |
+|------------------------------------------------------------------------------------------|----------------------|--------------|-----------------------------------|-----------------|
+| [AC6](https://github.com/PurpleShad0w/AC6)                                               | Python / Java / HTML | Professional | 6 months Internship               | Completed        |
+| [CR System](https://github.com/PurpleShad0w/CR-System)                                   | Python               | Professional | 6 months Internship               | Ongoing          |
+| [Lists of Deaths](https://github.com/PurpleShad0w/Lists-of-Deaths)                       | Python               | Personal     | Major Project                     | Ongoing          |
+| [Monster Hunter Archives](https://github.com/PurpleShad0w/Monster-Hunter-Archives)       | Python               | Personal     | Major Project                     | Archived         |
+| [Monster Hunter Guild Cards](https://github.com/PurpleShad0w/Monster-Hunter-Guild-Cards) | Python               | Personal     | Major Project                     | On Hold          |
+| [Steam Stats](https://github.com/PurpleShad0w/Steam-Stats)                               | Python               | Personal     | Minor Project                     | Ongoing          |
+| [Strange Mod](https://github.com/PurpleShad0w/Strange-Mod)                               | Java                 | Personal     | Minor Project                     | Abandoned        |
+| [Study](https://github.com/PurpleShad0w/Study)                                           | Python / R           | Professional | 4 years Bachelor + 2 years Master | Completed        |
+| [Ventures](https://github.com/PurpleShad0w/Ventures)                                     | Python               | Personal     | Minor Projects                    | Mostly Completed |
+| [Web Shop](https://github.com/PurpleShad0w/Web-Shop)                                     | PHP / HTML           | Professional | Web Development Course            | Completed        |
